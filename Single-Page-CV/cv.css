@@ -1,0 +1,50 @@
+body{
+    margin: 30px;
+}
+
+.divider{
+    border-top: 1px solid #000;
+    margin: 20px 0;
+}
+
+h1{
+    font-size:25pt;
+    margin:5px 0 5px 0;
+}
+
+h2, h3{
+    font-size: 12pt;
+}
+
+h2{
+    color:rgb(42, 180, 61)
+}
+
+.contact_info p{
+    margin:0;
+    padding: 0;
+}
+
+.skills h2{
+    margin-top: 20px;
+    margin-bottom: 1px; 
+}
+
+.school h3{
+    color: royalblue;
+}
+
+.experience h3{
+    color:royalblue
+}
+
+.education ul{
+    margin:0;
+}
+
+.contact-online a{
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #000;
+}
